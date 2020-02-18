@@ -1,2 +1,2 @@
-# fivem_richpresence
+# Discord Richpresence for FiveM
  
