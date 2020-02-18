@@ -12,7 +12,7 @@ discord.lua:6 -> Place your text
 
 ### Mes phrases (si vous voulez des exemples)
 
-'local text = {
+local text = {
 	"se fait chier ",
 	"cherche le dealer de w*ed ",
 	"viens de voler une voiture ",
@@ -112,5 +112,5 @@ discord.lua:6 -> Place your text
 	"se balade sur Doctissimo ",
 	"fais ses courses au LIDL ",
 	"regarde de travers sa belle-mère "
-}'
+}
 
