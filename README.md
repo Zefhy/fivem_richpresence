@@ -1,6 +1,6 @@
 # Discord Richpresence for FiveM
  
- Rich presence pour FiveM (qui change le status automatiquement toutes les 5 mintutes)
+ Rich presence for FiveM (which changes the status automatically every 5 minutes)
  
  ## Preview
  https://streamable.com/j3q2f
