@@ -2,6 +2,6 @@
  
  Rich presence pour FiveM (qui change le status automatiquement toutes les 5 mintutes)
  
- #### Configuration
+ ## Configuration
  
 (en préparation, repassez plus tard)
