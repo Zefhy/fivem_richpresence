@@ -8,3 +8,7 @@
  ## Configuration
  
 discord.lua:6 -> Place your text
+
+### Mes phrases (si vous voulez des exemples)
+
+
