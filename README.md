@@ -7,4 +7,4 @@
  
  ## Configuration
  
-(en préparation, repassez plus tard)
+discord.lua:6 -> Place your text
